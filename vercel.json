@@ -1,0 +1,11 @@
+{
+  "outputDirectory": "public"
+}
+```
+
+Your folder structure should look like this:
+```
+my-project/
+├── vercel.json
+└── public/
+    └── index.html
