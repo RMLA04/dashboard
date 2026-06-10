@@ -4,12 +4,11 @@
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
 | Name | Class |
 |------|-------|
 | Adolat Gharibshoeva | Class of 2028 |
-| Farahnoz Ahmadkhonova | Class of 2028 |
 
 **Course:** Data Structures & Algorithms (DSA)  
 **Presentation Date:** March 5, 2026
