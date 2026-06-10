@@ -96,4 +96,4 @@ Each topic section contains three panels:
 ## 📄 License
 
 This project was created for educational purposes as part of a DSA course presentation.  
-© 2026 Adolat Gharibshoeva & Farahnoz Ahmadkhonova
+© 2026 Adolat Gharibshoeva
